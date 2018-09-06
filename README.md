@@ -1,1 +1,1 @@
-See cppsat's project website: http://abau.org/cppsat
+See cppsat's project website: https://abau.org/cppsat.html
